@@ -23,7 +23,7 @@ optional arguments:
                                 Current known: "cs", "de", "el", "es", "fr", "id", "it", "ja", 
                                 "ko", "pt", "ro", "ru", "sl", "uk", "zh-Hant", "zh" [default: ]
   -t, --theme THEME             Which R Markdown document theme to use. Ref: https://l.rud.is/2JOibrZ [default: simplex]
-  -c, --highlight HIGHLIGHT	    Which R Markdown code higlight theme to use. Ref: https://l.rud.is/2JOibrZ [default: espresso]
+  -c, --highlight HIGHLIGHT     Which R Markdown code higlight theme to use. Ref: https://l.rud.is/2JOibrZ [default: espresso]
   -o, --output-dir OUTPUT-DIR   Where to store the rendered file. Defaults to current working directory. 
-                                [default: /Users/hrbrmstr/Development/taotcl]
+                                [default: /your/current/directory/here]
 ```
